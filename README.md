@@ -28,16 +28,10 @@ Some of my skills are under
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-## Connect with me
+## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/ria-agarwal-2004/">
-  <img align="left" alt="Ria's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a>
-<a href="https://github.com/riaagarwal21/">
-  <img align="left" alt="Ria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/_.riaagarwal">
-  <img align="left" alt="Ria's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a>
+
+<a href = "https://www.linkedin.com/in/ria-agarwal-2004/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/riaagarwal21/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
+<a href = "https://www.instagram.com/_.riaagarwal"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-<br>
