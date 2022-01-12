@@ -16,11 +16,9 @@ I'm always curious and I enjoy learning. I like to explore different technical f
 
 
 ## Technical Skills 🛠 
-<img width="100%" height="auto" src="'https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="175px"/> 
- 
+<img width="100%" height="auto" src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" height="175px"/> 
+
 Some of my skills are under
-
-
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
