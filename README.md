@@ -27,6 +27,7 @@ Some of my skills are under
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+
 ## Connect with me
 <a href="https://www.linkedin.com/in/ria-agarwal-2004/">
   <img align="left" alt="Ria's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
@@ -38,24 +39,3 @@ Some of my skills are under
   <img align="left" alt="Ria's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <br>
-
-<!--footer-->
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
-
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919592925693) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊</em>
-<div align="center">
-<a href="<div align="center">
-                            
-<a href="https://github.com/riaagarwal21/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ria-agarwal-2004/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-<br/>  
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
