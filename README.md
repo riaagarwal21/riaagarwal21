@@ -13,7 +13,7 @@ I'm always curious and I enjoy learning. I like to explore different technical f
 - 👯 I’m looking for to collaborate on **OpenSource Projects**
 - 📫 How to reach me **ragarwal4_be21@thapar.edu**
 - 😄 Pronouns: She/Her
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riaagarwal21 &theme=radical)
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/ria-agarwal-2004/">
@@ -37,4 +37,4 @@ Some of my skills are under
 
 
 ## 📊 My Github Statistics and Streaks
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riaagarwal21 &theme=radical)
+
