@@ -34,3 +34,7 @@ Some of my skills are under
 ![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+## 📊 My Github Statistics and Streaks
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riaagarwal21 &theme=radical)
