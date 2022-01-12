@@ -16,8 +16,8 @@ I'm always curious and I enjoy learning. I like to explore different technical f
 
 
 ## Technical Skills 🛠 
-
-<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+<img width="100%" height="auto" src="'https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="175px"/> 
+ 
 Some of my skills are under
 
 
