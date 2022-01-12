@@ -30,8 +30,6 @@ Some of my skills are under
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/ria-agarwal-2004/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/riaagarwal21/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
-<a href = "https://www.instagram.com/_.riaagarwal"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/ria-agarwal-2004/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_.riaagarwal" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
