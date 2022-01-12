@@ -15,18 +15,22 @@ I'm always curious and I enjoy learning. I like to explore different technical f
 - 😄 Pronouns: She/Her
 
 
+## Connect with me
+<a href="https://www.linkedin.com/in/ria-agarwal-2004/">
+  <img align="left" alt="Ria's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/riaagarwal21/">
+  <img align="left" alt="Ria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/_.riaagarwal">
+  <img align="left" alt="Ria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br>
+
 ## Technical Skills 🛠 
-<img width="100%" height="auto" src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" height="100px"/></a>
 Some of my skills are under
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/ria-agarwal-2004/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_.riaagarwal" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
