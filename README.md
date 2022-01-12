@@ -29,6 +29,7 @@ Some of my skills are under
 
 
 ## Connect with me
+<p align="left">
 <a href="https://www.linkedin.com/in/ria-agarwal-2004/">
   <img align="left" alt="Ria's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
@@ -38,4 +39,5 @@ Some of my skills are under
 <a href="https://www.instagram.com/_.riaagarwal">
   <img align="left" alt="Ria's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
+</p>
 <br>
